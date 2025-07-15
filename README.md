@@ -1,4 +1,4 @@
-# Extension EcoDeli
+# Extension EcoDeli
 
 Il s'agit d'une extension EcoDeli compatible avec le navigateur Chrome.
 
